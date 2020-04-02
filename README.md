@@ -1,5 +1,4 @@
-# 15-marketing-php-tech-test
-15 Marketing PHP Developer Test
+# 15 Marketing PHP Developer Tech Test
 
 This is the PHP tech test from https://www.15marketing.co.uk/
 
